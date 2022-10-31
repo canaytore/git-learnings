@@ -14,4 +14,4 @@ It's also possible to pull them from the repository into the *staging index*, an
 
 There's the *working directory*, which contains changes that may not be tracked by Git yet, there's the *staging index*, which contains changes that we're about to commit into the repository, and then there's the *repository*, and that's what's actually being tracked by Git. The changes that Git has, and that it's going to hold onto and keep track of.
 
-![](git three tree arc.png)
+![]("git_three_tree_arc.png")
