@@ -4,7 +4,7 @@
 - **Staging Index**: containing changes that are about to be committed into the repository
 - **Repository**: being tracked by Git
 
-<img src="git_three_tree_arc.png" width="400"/>
+<img src="img/git_three_tree_arc.png" width="400"/>
 
 Git uses a three-tree architecture. 
 

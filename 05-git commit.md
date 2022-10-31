@@ -18,6 +18,8 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ```$ git add .\test\test_file_01.txt``` or to add all changes ```$ git add .```
 
+```$ git status```
+
 ```
 On branch master
 
@@ -39,3 +41,7 @@ Date:   Mon Oct 31 20:00:00 2022 +0100
 
     Add test file to test directory
 ```
+
+**Shortcut** of committing all changes
+
+```$ git commit -am "Add test file to test directory"``` 
