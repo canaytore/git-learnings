@@ -1,4 +1,4 @@
-# git ```status```
+# git ```commit```
 
 Make some changes in working directory (e.g. adding test/test_file_01.txt)
 
