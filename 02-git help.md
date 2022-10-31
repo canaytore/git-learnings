@@ -1,4 +1,4 @@
-# Git ```help```
+# git ```help```
 
 Git ```help``` is a very useful tool for finding out more information about how to use Git. 
 
