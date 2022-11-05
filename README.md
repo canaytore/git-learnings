@@ -9,15 +9,15 @@ Git is **distributed version control**. Different users each maintain their own 
 Because it's distributed, that has a couple of advantages. It means that there's no need to communicate with a central server, and that makes things faster and it means that it's not necessary to have network access to submit our changes. With CVS and SVN, if something goes wrong with that central repository, that can be a real show stopper for everyone else who's working off of that central repository. With Git, everyone can keep working. They've each got their own repository that they're working from, not just a copy that they're trying to keep in sync with some central repository. It also encourages participation in *forking* projects, and this is really important for the open source community because developers can work independently. They can make changes, they can make bug fixes, feature improvements, and then they can submit those back to the project for either inclusion or rejection. Even if we're working on an open source project and we don't like the way that it's going, we can fork that project, create our own version and take it in a completely different direction. That becomes a really powerful and flexible feature that's well suited to collaboration between teams, especially loose groups of distributed developers.
 
 **Table of contents:**
-- [01 - Basic Git Configurations.md](https://github.com/canaytore/git-learnings/blob/new-learnings/01-git%20config.md)
-- [02 - Git help](https://github.com/canaytore/git-learnings/blob/new-learnings/02-git%20help.md)
-- [03 - Initialize a repository](https://github.com/canaytore/git-learnings/blob/new-learnings/03-git%20init.md)
-- [04 - Git's Three-Tree Architecture](https://github.com/canaytore/git-learnings/blob/new-learnings/04-three-tree%20architecture.md)
-- [05 - Git commit](https://github.com/canaytore/git-learnings/blob/new-learnings/05-git%20commit.md)
-- [06 - Git log](https://github.com/canaytore/git-learnings/blob/new-learnings/06-git%20log.md)
-- [07 - View Changes with Git diff](https://github.com/canaytore/git-learnings/blob/new-learnings/07-git%20diff.md)
-- [08 - Delete Files](https://github.com/canaytore/git-learnings/blob/new-learnings/08-git%20rm.md)
-- [09 - Move and Rename Files](https://github.com/canaytore/git-learnings/blob/new-learnings/09-git%20mv.md)
+- [01 - Basic Git Configurations.md](01-git config.md)
+- [02 - Git help](02-git help.md)
+- [03 - Initialize a repository](03-git init.md)
+- [04 - Git's Three-Tree Architecture](04-three-tree architecture.md)
+- [05 - Git commit](05-git commit.md)
+- [06 - Git log](06-git log.md)
+- [07 - View Changes with Git diff](07-git diff.md)
+- [08 - Delete Files](08-git rm.md)
+- [09 - Move and Rename Files](09-git mv.md)
 
 **Author:**
 - Can Aytöre - [github/canaytore](https://github.com/canaytore)
