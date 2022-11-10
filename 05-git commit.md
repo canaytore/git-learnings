@@ -45,3 +45,12 @@ Date:   Mon Oct 31 20:00:00 2022 +0100
 **Shortcut** of committing all changes
 
 ```$ git commit -am "Add test file to test directory"``` 
+
+## Multiline commit messages
+
+```$ git commit -a``` 
+
+```hint: Waiting for your editor to close the file...```
+
+Then the editor will be opened, and we could provide multiline commit message there. As soon as we save and close it, it will direct back to the command line.
+
