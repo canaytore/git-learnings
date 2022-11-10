@@ -16,4 +16,6 @@
 
 ```$ git log --since=2019-03-01 --until=2019-03-31 --author="Can" --grep="refactor"``` -> limits the logs - given multiple conditions
 
-then have a look at the commit by using ```$ git show a1b2c3d4e --color-word```
+```$ git log --oneline``` -> gives the logs in a compact structure
+
+then we could have a look at the commit by using ```$ git show a1b2c3d4e --color-word```
