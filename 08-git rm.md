@@ -84,3 +84,11 @@ Changes to be committed:
 Now that file has been deleted.
 
 So if we want to keep a copy of the file around, and we just want it outside the project, then drag the file and then tell git about it (i.e. Alternative #1). But if we really just want to permanently delete it, it may be more convenient to just tell git about it and let it do it's leading for us. (i.e. Alternative #2)
+
+## Alternative #3 by using ```$ git clean```
+
+```$ git clean -i``` -> interactive
+
+```$ git clean -n``` -> would remove
+
+```$ git clean -f``` -> force to remove

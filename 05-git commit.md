@@ -16,7 +16,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-```$ git add .\test\test_file_01.txt``` or to add all changes ```$ git add .```
+```$ git add .\test\test_file_01.txt``` or to add all changes ```$ git add .``` (or to add the files starting with test ```$ git add test*```)
 
 ```$ git status```
 
@@ -45,3 +45,15 @@ Date:   Mon Oct 31 20:00:00 2022 +0100
 **Shortcut** of committing all changes
 
 ```$ git commit -am "Add test file to test directory"``` 
+
+## Multiline commit messages
+
+```$ git commit -a``` 
+
+```hint: Waiting for your editor to close the file...```
+
+Then the editor will be opened, and we could provide multiline commit message there. As soon as we save and close it, it will direct back to the command line.
+
+## Amend commits
+
+```$ git commit --amend -m "new merged commit message"``` -> will merge/amend the commit with the latest commit (SHA will be changed)
