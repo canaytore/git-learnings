@@ -16,7 +16,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-```$ git add .\test\test_file_01.txt``` or to add all changes ```$ git add .```
+```$ git add .\test\test_file_01.txt``` or to add all changes ```$ git add .``` (or to add the files starting with test ```$ git add test*```)
 
 ```$ git status```
 
