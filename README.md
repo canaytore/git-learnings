@@ -18,6 +18,8 @@ Because it's distributed, that has a couple of advantages. It means that there's
 - [07 - View Changes with Git diff](07-git%20diff.md)
 - [08 - Delete Files](08-git%20rm.md)
 - [09 - Move and Rename Files](09-git%20mv.md)
+- [10 - Git checkout](10-git%20checkout.md) [WIP]
+- [11 - Revert a commit](11-git%20revert.md) [WIP]
 
 **Author:**
 - Can Aytöre - [github/canaytore](https://github.com/canaytore)
