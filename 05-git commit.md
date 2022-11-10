@@ -54,3 +54,6 @@ Date:   Mon Oct 31 20:00:00 2022 +0100
 
 Then the editor will be opened, and we could provide multiline commit message there. As soon as we save and close it, it will direct back to the command line.
 
+## Amend commits
+
+```$ git commit --amend -m "new merged commit message"``` -> will merge/amend the commit with the latest commit (SHA will be changed)
